@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 11 Express.js: Note Taker
 
 ## Your Task
@@ -128,3 +129,6 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# Noted
+>>>>>>> d2f9dd6d1e359c9d94827674d268f60514d4e3d4
